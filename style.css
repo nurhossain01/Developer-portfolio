@@ -37,6 +37,16 @@ a{
   float: left;
   padding: 0 15px;
 }
+.col-60{
+  width: 60%;
+  float: left;
+  padding: 0 15px;
+}
+.col-40{
+  width: 40%;
+  float: left;
+  padding: 0 15px;
+}
 .col-33{
   width: 33%;
   float: left;
@@ -62,8 +72,8 @@ col-100{
   float: left;
 }
 .section-padding{
-  padding-top: 100px;
-  padding-bottom: 100px;
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
 img{
   width: 100%;
@@ -82,4 +92,32 @@ h1{
 }
 .orange-color{
   color: orange;
+}
+.portfolio h2{
+  padding-top: 25px;
+}
+.portfolio h3{
+  padding-top: 20px;
+}
+.portfolio p{
+  padding-top: 10px;
+  line-height: 30px;
+}
+.images-style img{
+  width: 200px;
+  height: 300px;
+  border-radius: 50%;
+}
+.btn a{
+  color: red;
+}
+.btn{
+  margin-top: 20px;
+  background-color: purple;
+  display: inline-block;
+  padding: 10px 15px;
+  border-radius: 10px;
+}
+.home{
+  background-color: gray;
 }
