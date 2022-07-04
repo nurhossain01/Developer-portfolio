@@ -127,7 +127,9 @@ h1{
 
 
 .web-dream{
-  margin-left: 50px;
+  margin-left: px;
+  
+
 }
 .web-dream h3{
   padding-top: 45px;
@@ -152,3 +154,20 @@ h1{
   padding: 10px 15px;
   border-radius: 10px;
 }
+.bg-png img{
+  width: 100px;
+  height: 100px;
+  float: right;
+}
+/*
+.web-dream ::before{
+  content: "";
+  position: absolute;
+  height: 100px;
+  width: 100px;
+  background-color: black;
+  left: 414px;
+  top: 298px;
+  
+}
+*/
