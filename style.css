@@ -97,27 +97,28 @@ h1{
   padding-top: 25px;
 }
 .portfolio h3{
-  padding-top: 20px;
+  padding-top: 45px;
 }
 .portfolio p{
-  padding-top: 10px;
-  line-height: 30px;
+  padding-top: 20px;
+  line-height: 20px;
 }
 .images-style img{
-  width: 200px;
-  height: 300px;
-  border-radius: 50%;
+  width: 250px;
+  height: 350px;
+  border-radius: 40%;
+  margin-left: 50px;
 }
 .btn a{
   color: red;
 }
 .btn{
-  margin-top: 20px;
+  margin-top: 10px;
   background-color: purple;
   display: inline-block;
   padding: 10px 15px;
   border-radius: 10px;
 }
 .home{
-  background-color: gray;
+  background-color: #ffff;
 }
