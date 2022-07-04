@@ -72,8 +72,8 @@ col-100{
   float: left;
 }
 .section-padding{
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 100px;
+  padding-bottom: 100px;
 }
 img{
   width: 100%;
@@ -106,7 +106,7 @@ h1{
 .images-style img{
   width: 250px;
   height: 350px;
-  border-radius: 40%;
+  border-radius: 50%;
   margin-left: 50px;
 }
 .btn a{
@@ -121,4 +121,34 @@ h1{
 }
 .home{
   background-color: #ffff;
+}
+
+
+
+
+.web-dream{
+  margin-left: 50px;
+}
+.web-dream h3{
+  padding-top: 45px;
+}
+.web-dream p{
+  padding-top: 20px;
+  line-height: 20px;
+}
+.pro-image img{
+  width: 250px;
+  height: 350px;
+  border-radius: 50%;
+  margin-left: 50px;
+}
+.btn-2 a{
+  color: red;
+}
+.btn-2{
+  margin-top: 10px;
+  background-color: purple;
+  display: inline-block;
+  padding: 10px 15px;
+  border-radius: 10px;
 }
