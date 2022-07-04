@@ -213,15 +213,7 @@ h1{
 .finished{
   display: flex;
   justify-content: space-between;
-  margin-left: 20%;
-}
-.icon{
-  display: flex;
-  margin-right: 200px;
-}
-.icon li{
-  list-style: none;
-  margin-inline: 20px;
+  margin-left: 30%;
 }
 .mail h3 span{
   color: orangered;
