@@ -207,3 +207,22 @@ h1{
 #expe{
   border-left: 8px solid green;
 }
+#finished{
+  padding-bottom: 3%;
+}
+.finished{
+  display: flex;
+  justify-content: space-between;
+  margin-left: 20%;
+}
+.icon{
+  display: flex;
+  margin-right: 200px;
+}
+.icon li{
+  list-style: none;
+  margin-inline: 20px;
+}
+.mail h3 span{
+  color: orangered;
+}
