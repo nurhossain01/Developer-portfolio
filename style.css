@@ -86,6 +86,28 @@ img{
 body{
   font-family: 'Poppins', sans-serif;
 }
+#top-header{
+  padding: 30px 0;
+  background-color: black;
+}
+.main ul{
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 80px;
+}
+.main ul li{
+  margin-right: 50px;
+  text-transform: uppercase;
+}
+.main ul li a{
+  color: #fff;
+  transition: .3s;
+}
+.main ul li a:hover{
+  color: red;
+  background-color: yellow;
+  padding: 10px 8px;
+}
 h1{
   font-size: 50px;
 }
